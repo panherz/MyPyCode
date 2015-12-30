@@ -26,10 +26,15 @@ saleswoman = str(input('What is the saleswoman\'s name?\n'))
 value1 = eval(input('Enter the totals sales for ' + salesman + '?\n'))
 # A user can also enter 23 + 4
 value2 = eval(input('Enter the total sales for {}?\n' .format(saleswoman)))
-total = value1 % value2
+total = value1 + value2
 
 # If you want to put several Python statements on the same line, you can use a semi-colon to separate them.
 
 print('The total sales for', salesman, 'and', saleswoman, '\n')
 print('EQUALS\n')
 print('$', total, sep='')
+
+"""
+    This is a multi line comment
+    Understood
+    """
