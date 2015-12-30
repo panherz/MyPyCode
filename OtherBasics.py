@@ -2,7 +2,7 @@ __author__ = 'dark00ps'
 
 # Printing
 
-var = 'This is how you print in Pyhton 3'
+var = 'This is how you print in Python 3'
 
 print(var)
 
@@ -47,7 +47,7 @@ print(c)
 # Data Types
 # Python has five standard data types
 # http://www.tutorialspoint.com/python/python_variable_types.htm
-# Numbers, Stings, Tuaple, Dictionary
+# Numbers, Stings, Tuple, Dictionary
 # You can also delete a single object or multiple objects i.e del var1, del var1,var2
 
 print(counter)

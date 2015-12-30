@@ -1,3 +1,5 @@
+# MyPyCode
+
 # More on definitions here: http://study.com/academy/lesson/machine-code-and-high-level-languages-using-interpreters-and-compilers.html
 
 # WHAT IS A COMPILER?
@@ -32,7 +34,3 @@
 # STATEMENTS AND EXPRESSIONS?
 # A statement is a complete line of code that performs some action, while an expression is any section of the
 # code that evaluates to a value.
-
-
-# MyPyCode
-MyPyCode
