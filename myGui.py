@@ -1,24 +1,24 @@
 # my GUI
 
-from tkinter import *
+import Tkinter
 
 # Create a window
-root = Tk()
+root = Tkinter.Tk()
 
 # Modify root window
 root.title('__dark00ps__')
 root.geometry('700x400')
 
-app = Frame(root)
+app = Tkinter.Frame(root)
 app.grid()
 
-button1 = Button(app, text='Button One')
+button1 = Tkinter.Button(app, text='Button One')
 button1.grid()
 
-button2 = Button(app)
+button2 = Tkinter.Button(app)
 button2.grid()
 
-label = Label(app, text='BGCH')
+label = Tkinter.Label(app, text='BGCH')
 label.grid()
 
 # photo = PhotoImage(file="images.jpg")
